@@ -1,0 +1,16 @@
+<POSLogDocument>
+    <documentMetaData>
+        <key>
+            <businessHierarchyID>6</businessHierarchyID>
+            <registerID>42</registerID>
+            <storeID>669</storeID>
+            <transactionDate>03/02/2019</transactionDate>
+            <transactionNumber>7125</transactionNumber>
+            <tokenizedFlag>0</tokenizedFlag>
+            <encryptionFlag>SafeNet</encryptionFlag>
+        </key>
+    </documentMetaData>
+    <documentText>
+            <posLogData>sdadsa</posLogData>
+    </documentText>
+</POSLogDocument>
